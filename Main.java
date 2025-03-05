@@ -6,7 +6,7 @@ package appproject;
 
 /**
  *
- * @author subhyansh
+ * @author subhyanshsingh
  */
 public class Main extends javax.swing.JFrame {
 
